@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MME-IBLPC7</Machine>
+    <WindowsUser>pli3</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>d5e18bde-6b22-4f4c-a702-10b715e8ea1f</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\pli3\Desktop\teleSurgery\SocketsExample\Samples\StreamSocket\cs\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>C4B236FAC8676F18E5663E183618F6F812CDB707DBB9C2C47EA2B1CB3421B848</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.SDKSamples.StreamSocket.CS_1.0.0.0_x86__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.SDKSamples.StreamSocket.CS_8wekyb3d8bbwe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.SDKSamples.StreamSocket.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\Samples\StreamSocket\cs\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-01-26T20:32:26.465</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\Samples\StreamSocket\cs\bin\x86\Debug\StreamSocket.exe">
+      <PackagePath>entrypoint\StreamSocket.exe</PackagePath>
+      <Modified>2017-01-26T20:32:25.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
+      <PackagePath>Microsoft.CSharp.dll</PackagePath>
+      <Modified>2016-06-23T18:17:53.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Core.dll">
+      <PackagePath>System.Core.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Net.dll">
+      <PackagePath>System.Net.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Numerics.dll">
+      <PackagePath>System.Numerics.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Runtime.Serialization.dll">
+      <PackagePath>System.Runtime.Serialization.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.ServiceModel.Web.dll">
+      <PackagePath>System.ServiceModel.Web.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.ServiceModel.dll">
+      <PackagePath>System.ServiceModel.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Windows.dll">
+      <PackagePath>System.Windows.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Xml.Linq.dll">
+      <PackagePath>System.Xml.Linq.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Xml.Serialization.dll">
+      <PackagePath>System.Xml.Serialization.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.Xml.dll">
+      <PackagePath>System.Xml.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.NETCore.Portable.Compatibility\1.0.0\lib\netcore50\System.dll">
+      <PackagePath>System.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.VisualBasic\10.0.0\lib\netcore50\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+      <Modified>2016-06-23T18:17:53.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\Microsoft.Win32.Primitives\4.0.0\lib\dotnet\Microsoft.Win32.Primitives.dll">
+      <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.AppContext\4.0.0\lib\netcore50\System.AppContext.dll">
+      <PackagePath>System.AppContext.dll</PackagePath>
+      <Modified>2016-06-23T18:17:53.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Collections\4.0.10\lib\netcore50\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Collections.Concurrent\4.0.10\lib\dotnet\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2016-06-23T18:17:53.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Collections.Immutable\1.1.37\lib\dotnet\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2016-06-23T18:17:53.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Collections.NonGeneric\4.0.0\lib\dotnet\System.Collections.NonGeneric.dll">
+      <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Collections.Specialized\4.0.0\lib\dotnet\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.ComponentModel\4.0.0\lib\netcore50\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+      <Modified>2016-06-23T18:17:53.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.ComponentModel.Annotations\4.0.10\lib\dotnet\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+      <Modified>2016-06-23T18:17:53.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.ComponentModel.EventBasedAsync\4.0.10\lib\dotnet\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Data.Common\4.0.0\lib\dotnet\System.Data.Common.dll">
+      <PackagePath>System.Data.Common.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Diagnostics.Contracts\4.0.0\lib\netcore50\System.Diagnostics.Contracts.dll">
+      <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
+      <Modified>2016-06-23T18:17:47.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Diagnostics.Debug\4.0.10\lib\netcore50\System.Diagnostics.Debug.dll">
+      <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Diagnostics.StackTrace\4.0.0\lib\netcore50\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Diagnostics.Tools\4.0.0\lib\netcore50\System.Diagnostics.Tools.dll">
+      <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Diagnostics.Tracing\4.0.20\lib\netcore50\System.Diagnostics.Tracing.dll">
+      <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Dynamic.Runtime\4.0.10\lib\netcore50\System.Dynamic.Runtime.dll">
+      <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Globalization\4.0.10\lib\netcore50\System.Globalization.dll">
+      <PackagePath>System.Globalization.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Globalization.Calendars\4.0.0\lib\netcore50\System.Globalization.Calendars.dll">
+      <PackagePath>System.Globalization.Calendars.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Globalization.Extensions\4.0.0\lib\dotnet\System.Globalization.Extensions.dll">
+      <PackagePath>System.Globalization.Extensions.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.IO\4.0.10\lib\netcore50\System.IO.dll">
+      <PackagePath>System.IO.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.826</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.IO.Compression\4.0.0\lib\netcore50\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.IO.Compression.clrcompression-x86\4.0.0\runtimes\win10-x86\native\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2016-06-23T18:18:27.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.IO.Compression.ZipFile\4.0.0\lib\dotnet\System.IO.Compression.ZipFile.dll">
+      <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.IO.FileSystem\4.0.0\lib\netcore50\System.IO.FileSystem.dll">
+      <PackagePath>System.IO.FileSystem.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.IO.FileSystem.Primitives\4.0.0\lib\dotnet\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.IO.IsolatedStorage\4.0.0\lib\netcore50\System.IO.IsolatedStorage.dll">
+      <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.IO.UnmanagedMemoryStream\4.0.0\lib\dotnet\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Linq\4.0.0\lib\netcore50\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+      <Modified>2016-06-23T18:17:53.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Linq.Expressions\4.0.10\lib\netcore50\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+      <Modified>2016-06-23T18:17:47.968</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Linq.Parallel\4.0.0\lib\netcore50\System.Linq.Parallel.dll">
+      <PackagePath>System.Linq.Parallel.dll</PackagePath>
+      <Modified>2016-06-23T18:17:47.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Linq.Queryable\4.0.0\lib\netcore50\System.Linq.Queryable.dll">
+      <PackagePath>System.Linq.Queryable.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Net.Http\4.0.0\lib\netcore50\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Net.Http.Rtc\4.0.0\lib\netcore50\System.Net.Http.Rtc.dll">
+      <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Net.NetworkInformation\4.0.0\lib\netcore50\System.Net.NetworkInformation.dll">
+      <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Net.Primitives\4.0.10\lib\netcore50\System.Net.Primitives.dll">
+      <PackagePath>System.Net.Primitives.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Net.Requests\4.0.10\lib\dotnet\System.Net.Requests.dll">
+      <PackagePath>System.Net.Requests.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Net.Sockets\4.0.0\lib\netcore50\System.Net.Sockets.dll">
+      <PackagePath>System.Net.Sockets.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Net.WebHeaderCollection\4.0.0\lib\dotnet\System.Net.WebHeaderCollection.dll">
+      <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Numerics.Vectors\4.1.0\lib\dotnet\System.Numerics.Vectors.dll">
+      <PackagePath>System.Numerics.Vectors.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Numerics.Vectors.WindowsRuntime\4.0.0\lib\dotnet\System.Numerics.Vectors.WindowsRuntime.dll">
+      <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.ObjectModel\4.0.10\lib\dotnet\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Private.DataContractSerialization\4.0.0\lib\netcore50\System.Private.DataContractSerialization.dll">
+      <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Private.Networking\4.0.0\lib\netcore50\System.Private.Networking.dll">
+      <PackagePath>System.Private.Networking.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Private.ServiceModel\4.0.0\lib\netcore50\System.Private.ServiceModel.dll">
+      <PackagePath>System.Private.ServiceModel.dll</PackagePath>
+      <Modified>2016-06-23T18:17:53.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Private.Uri\4.0.0\lib\netcore50\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2016-06-23T18:17:47.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Reflection\4.0.10\lib\netcore50\System.Reflection.dll">
+      <PackagePath>System.Reflection.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Reflection.Context\4.0.0\lib\netcore50\System.Reflection.Context.dll">
+      <PackagePath>System.Reflection.Context.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Reflection.DispatchProxy\4.0.0\lib\netcore50\System.Reflection.DispatchProxy.dll">
+      <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Reflection.Emit\4.0.0\lib\netcore50\System.Reflection.Emit.dll">
+      <PackagePath>System.Reflection.Emit.dll</PackagePath>
+      <Modified>2016-06-23T18:18:27.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Reflection.Emit.ILGeneration\4.0.0\lib\netcore50\System.Reflection.Emit.ILGeneration.dll">
+      <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
+      <Modified>2016-06-23T18:18:27.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Reflection.Emit.Lightweight\4.0.0\lib\netcore50\System.Reflection.Emit.Lightweight.dll">
+      <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
+      <Modified>2016-06-23T18:18:27.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Reflection.Extensions\4.0.0\lib\netcore50\System.Reflection.Extensions.dll">
+      <PackagePath>System.Reflection.Extensions.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Reflection.Metadata\1.0.22\lib\dotnet\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Reflection.Primitives\4.0.0\lib\netcore50\System.Reflection.Primitives.dll">
+      <PackagePath>System.Reflection.Primitives.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Reflection.TypeExtensions\4.0.0\lib\netcore50\System.Reflection.TypeExtensions.dll">
+      <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Resources.ResourceManager\4.0.0\lib\netcore50\System.Resources.ResourceManager.dll">
+      <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Runtime\4.0.20\lib\netcore50\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Runtime.Extensions\4.0.10\lib\netcore50\System.Runtime.Extensions.dll">
+      <PackagePath>System.Runtime.Extensions.dll</PackagePath>
+      <Modified>2016-06-23T18:17:51.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Runtime.Handles\4.0.0\lib\netcore50\System.Runtime.Handles.dll">
+      <PackagePath>System.Runtime.Handles.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Runtime.InteropServices\4.0.20\lib\netcore50\System.Runtime.InteropServices.dll">
+      <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Runtime.InteropServices.WindowsRuntime\4.0.0\lib\netcore50\System.Runtime.InteropServices.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
+      <Modified>2016-06-23T18:17:47.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Runtime.Numerics\4.0.0\lib\netcore50\System.Runtime.Numerics.dll">
+      <PackagePath>System.Runtime.Numerics.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Runtime.Serialization.Json\4.0.0\lib\netcore50\System.Runtime.Serialization.Json.dll">
+      <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Runtime.Serialization.Primitives\4.0.10\lib\dotnet\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Runtime.Serialization.Xml\4.0.10\lib\netcore50\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Runtime.WindowsRuntime\4.0.10\lib\netcore50\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Runtime.WindowsRuntime.UI.Xaml\4.0.0\lib\netcore50\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Security.Claims\4.0.0\lib\dotnet\System.Security.Claims.dll">
+      <PackagePath>System.Security.Claims.dll</PackagePath>
+      <Modified>2016-06-23T18:17:59.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Security.Principal\4.0.0\lib\netcore50\System.Security.Principal.dll">
+      <PackagePath>System.Security.Principal.dll</PackagePath>
+      <Modified>2016-06-23T18:18:01.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.ServiceModel.Duplex\4.0.0\lib\netcore50\System.ServiceModel.Duplex.dll">
+      <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.ServiceModel.Http\4.0.10\lib\netcore50\System.ServiceModel.Http.dll">
+      <PackagePath>System.ServiceModel.Http.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.ServiceModel.NetTcp\4.0.0\lib\netcore50\System.ServiceModel.NetTcp.dll">
+      <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.ServiceModel.Primitives\4.0.0\lib\netcore50\System.ServiceModel.Primitives.dll">
+      <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.ServiceModel.Security\4.0.0\lib\netcore50\System.ServiceModel.Security.dll">
+      <PackagePath>System.ServiceModel.Security.dll</PackagePath>
+      <Modified>2016-06-23T18:17:48.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Text.Encoding\4.0.10\lib\netcore50\System.Text.Encoding.dll">
+      <PackagePath>System.Text.Encoding.dll</PackagePath>
+      <Modified>2016-06-23T18:18:01.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Text.Encoding.CodePages\4.0.0\lib\dotnet\System.Text.Encoding.CodePages.dll">
+      <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Text.Encoding.Extensions\4.0.10\lib\netcore50\System.Text.Encoding.Extensions.dll">
+      <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
+      <Modified>2016-06-23T18:18:01.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Text.RegularExpressions\4.0.10\lib\dotnet\System.Text.RegularExpressions.dll">
+      <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
+      <Modified>2016-06-23T18:18:01.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Threading\4.0.10\lib\netcore50\System.Threading.dll">
+      <PackagePath>System.Threading.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Threading.Overlapped\4.0.0\lib\netcore50\System.Threading.Overlapped.dll">
+      <PackagePath>System.Threading.Overlapped.dll</PackagePath>
+      <Modified>2016-06-23T18:17:47.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Threading.Tasks\4.0.10\lib\netcore50\System.Threading.Tasks.dll">
+      <PackagePath>System.Threading.Tasks.dll</PackagePath>
+      <Modified>2016-06-23T18:17:52.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Threading.Tasks.Dataflow\4.5.25\lib\dotnet\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
+      <Modified>2016-06-23T18:17:47.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Threading.Tasks.Parallel\4.0.0\lib\netcore50\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
+      <Modified>2016-06-23T18:18:01.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Threading.Timer\4.0.0\lib\netcore50\System.Threading.Timer.dll">
+      <PackagePath>System.Threading.Timer.dll</PackagePath>
+      <Modified>2016-06-23T18:18:01.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Xml.ReaderWriter\4.0.10\lib\dotnet\System.Xml.ReaderWriter.dll">
+      <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
+      <Modified>2016-06-23T18:17:47.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Xml.XDocument\4.0.10\lib\dotnet\System.Xml.XDocument.dll">
+      <PackagePath>System.Xml.XDocument.dll</PackagePath>
+      <Modified>2016-06-23T18:18:01.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Xml.XmlDocument\4.0.0\lib\dotnet\System.Xml.XmlDocument.dll">
+      <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
+      <Modified>2016-06-23T18:17:47.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
+      <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
+      <Modified>2016-06-23T18:17:51.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\SharedContent\cs\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2016-10-27T18:39:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\SharedContent\media\microsoft-sdk.png">
+      <PackagePath>Assets\microsoft-sdk.png</PackagePath>
+      <Modified>2016-10-27T18:39:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\SharedContent\media\smalltile-sdk.png">
+      <PackagePath>Assets\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-27T18:39:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\SharedContent\media\splash-sdk.png">
+      <PackagePath>Assets\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-27T18:39:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\SharedContent\media\squaretile-sdk.png">
+      <PackagePath>Assets\squareTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-27T18:39:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\SharedContent\media\storelogo-sdk.png">
+      <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-27T18:39:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\SharedContent\media\tile-sdk.png">
+      <PackagePath>Assets\tile-sdk.png</PackagePath>
+      <Modified>2016-10-27T18:39:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\SharedContent\media\windows-sdk.png">
+      <PackagePath>Assets\windows-sdk.png</PackagePath>
+      <Modified>2016-10-27T18:39:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\Samples\StreamSocket\cs\bin\x86\Debug\StreamSocket.xr.xml">
+      <PackagePath>StreamSocket.xr.xml</PackagePath>
+      <Modified>2016-10-27T18:41:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2016-12-21T21:35:15.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\Samples\StreamSocket\cs\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-01-26T20:32:26.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\pli3\Desktop\teleSurgery\SocketsExample\Samples\StreamSocket\cs\bin\x86\Debug\Core\StreamSocket.exe">
+      <PackagePath>StreamSocket.exe</PackagePath>
+      <Modified>2017-01-26T20:32:26.461</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23819.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23819.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23819.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23819.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x64\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23819.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23819.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x86\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
