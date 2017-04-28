@@ -1,1 +1,0 @@
-C:\Users\pli3\Desktop\teleSurgery\SocketsExample\Samples\StreamSocket\cs\StreamSocket.csproj;x86
