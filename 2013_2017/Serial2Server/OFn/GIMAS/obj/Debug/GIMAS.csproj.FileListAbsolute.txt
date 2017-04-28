@@ -1,0 +1,36 @@
+C:\Users\pli3\Desktop\GIMAS\GIMAS\bin\Debug\GIMAS.exe.config
+C:\Users\pli3\Desktop\GIMAS\GIMAS\bin\Debug\GIMAS.exe
+C:\Users\pli3\Desktop\GIMAS\GIMAS\bin\Debug\GIMAS.pdb
+C:\Users\pli3\Desktop\GIMAS\GIMAS\obj\Debug\GIMAS.csprojResolveAssemblyReference.cache
+C:\Users\pli3\Desktop\GIMAS\GIMAS\obj\Debug\GIMAS.Form1.resources
+C:\Users\pli3\Desktop\GIMAS\GIMAS\obj\Debug\GIMAS.Properties.Resources.resources
+C:\Users\pli3\Desktop\GIMAS\GIMAS\obj\Debug\GIMAS.csproj.GenerateResource.Cache
+C:\Users\pli3\Desktop\GIMAS\GIMAS\obj\Debug\GIMAS.exe
+C:\Users\pli3\Desktop\GIMAS\GIMAS\obj\Debug\GIMAS.pdb
+C:\Users\pli3\Desktop\GIMAS_6050\GIMAS\bin\Debug\GIMAS.exe.config
+C:\Users\pli3\Desktop\GIMAS_6050\GIMAS\obj\Debug\GIMAS.exe
+C:\Users\pli3\Desktop\GIMAS_6050\GIMAS\obj\Debug\GIMAS.pdb
+C:\Users\pli3\Desktop\GIMAS_6050\GIMAS\bin\Debug\GIMAS.exe
+C:\Users\pli3\Desktop\GIMAS_6050\GIMAS\bin\Debug\GIMAS.pdb
+C:\Users\pli3\Desktop\GIMAS_6050\GIMAS\obj\Debug\GIMAS.csprojResolveAssemblyReference.cache
+C:\Users\pli3\Desktop\GIMAS_6050\GIMAS\obj\Debug\GIMAS.Form1.resources
+C:\Users\pli3\Desktop\GIMAS_6050\GIMAS\obj\Debug\GIMAS.Properties.Resources.resources
+C:\Users\pli3\Desktop\GIMAS_6050\GIMAS\obj\Debug\GIMAS.csproj.GenerateResource.Cache
+C:\Users\pli3\Box Sync\6 C#\GIMAS_6050\GIMAS\bin\Debug\GIMAS.exe.config
+C:\Users\pli3\Box Sync\6 C#\GIMAS_6050\GIMAS\obj\Debug\GIMAS.exe
+C:\Users\pli3\Box Sync\6 C#\GIMAS_6050\GIMAS\obj\Debug\GIMAS.pdb
+C:\Users\pli3\Box Sync\6 C#\GIMAS_6050\GIMAS\bin\Debug\GIMAS.exe
+C:\Users\pli3\Box Sync\6 C#\GIMAS_6050\GIMAS\bin\Debug\GIMAS.pdb
+C:\Users\pli3\Box Sync\6 C#\GIMAS_6050\GIMAS\obj\Debug\GIMAS.csprojResolveAssemblyReference.cache
+C:\Users\pli3\Box Sync\6 C#\GIMAS_6050\GIMAS\obj\Debug\GIMAS.Form1.resources
+C:\Users\pli3\Box Sync\6 C#\GIMAS_6050\GIMAS\obj\Debug\GIMAS.Properties.Resources.resources
+C:\Users\pli3\Box Sync\6 C#\GIMAS_6050\GIMAS\obj\Debug\GIMAS.csproj.GenerateResource.Cache
+C:\Users\pli3\Box Sync\6 C#\OFn\GIMAS\bin\Debug\GIMAS.exe.config
+C:\Users\pli3\Box Sync\6 C#\OFn\GIMAS\obj\Debug\GIMAS.exe
+C:\Users\pli3\Box Sync\6 C#\OFn\GIMAS\obj\Debug\GIMAS.pdb
+C:\Users\pli3\Box Sync\6 C#\OFn\GIMAS\bin\Debug\GIMAS.exe
+C:\Users\pli3\Box Sync\6 C#\OFn\GIMAS\bin\Debug\GIMAS.pdb
+C:\Users\pli3\Box Sync\6 C#\OFn\GIMAS\obj\Debug\GIMAS.csprojResolveAssemblyReference.cache
+C:\Users\pli3\Box Sync\6 C#\OFn\GIMAS\obj\Debug\GIMAS.Form1.resources
+C:\Users\pli3\Box Sync\6 C#\OFn\GIMAS\obj\Debug\GIMAS.Properties.Resources.resources
+C:\Users\pli3\Box Sync\6 C#\OFn\GIMAS\obj\Debug\GIMAS.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+PT DMP OFN RF version
+DMP+PT tested
+OFN not
+timer for PT reset needs 15ms for DMP version
+
+20160305
+OFN tested

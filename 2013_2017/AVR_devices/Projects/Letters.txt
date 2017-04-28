@@ -1,0 +1,9 @@
+LWM: lightweightmesh stack
+RF: send data to RF channel
+PT: pressure/Temperature sensor MS580305BA
+6050/9250: MPU6050/9250
+Raw: raw values of IMU
+DMP: digital motion processor
+OFN: ADBSA350
+UART: SendData to UART channel
+FLASH: store data to flash and read/send to rf channel

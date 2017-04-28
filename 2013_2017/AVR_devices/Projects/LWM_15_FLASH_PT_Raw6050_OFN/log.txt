@@ -1,0 +1,6 @@
+PT Raw6050 OFN Flashversion
+
+20160302 Read PT, 6050 and send tested
+                  Read OFN and Flash not tested
+20160305 ReadOFN and write/read flash tested
+20160308 Timer added, power is managed, chip erased added

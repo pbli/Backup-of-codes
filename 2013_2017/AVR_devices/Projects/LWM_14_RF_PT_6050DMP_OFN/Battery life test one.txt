@@ -1,0 +1,3 @@
+1. The one tested on animal has 3-5mA current and the battery life is 6 hours, 3:50pm-9:47pm, in an in vivo test.
+2.But old version (the first RF capsule) has 0-4mA current by good setup of sleep. Also the two new board soldered today also have 0-4mA current. (THE TEMPERATURE OF SOLDERING SHOULD LESS THAN 300C. THIS MISTAKE WASTEs MY 3DAYS HARD WORK.) so the battery life could be longer. 
+3. The reason for this 3-5mA current is that sometime, it seems the program needs re-write to the chip to active sleep. Also, the possible reason is that the gyro not in sleep. maybe is just the wires connection problem

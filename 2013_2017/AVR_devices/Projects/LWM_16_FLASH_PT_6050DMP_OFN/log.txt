@@ -1,0 +1,4 @@
+P T DMP OFN Flash version
+20160305 PT, DMP read, read and store, read and sned tested
+20130306 OFN codes tested at other version
+20160308 Flash erase, logic of operation tested

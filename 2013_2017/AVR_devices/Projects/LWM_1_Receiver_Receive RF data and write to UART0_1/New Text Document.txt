@@ -1,0 +1,4 @@
+2016 03 02
+-Basic version for receiver
+-receive data from rf channel and send to UART0/1
+ -for XPro, it is 1, for designed receiver it is 1

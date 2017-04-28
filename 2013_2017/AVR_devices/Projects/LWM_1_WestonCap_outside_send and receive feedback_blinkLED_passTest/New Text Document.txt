@@ -1,0 +1,4 @@
+20160302
+Weston capsule outside
+Send a data out every 5s and after get feedback data, light LED
+Tested

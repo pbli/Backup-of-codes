@@ -1,0 +1,4 @@
+20160302
+-Weson capsule inside chip
+-after receive some data, it will active the pin and send a data out. NO UART, I2C, SPI, IMU
+Tested
